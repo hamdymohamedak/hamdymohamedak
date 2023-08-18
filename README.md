@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hamdy-Mohamed.Hamdy-Mohamed&left_text=Hamdy Mohamed"  />
+ <h1> Hamdy Mohamed </h1>
 </div>
 
 ###
