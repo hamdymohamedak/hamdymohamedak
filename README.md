@@ -10,15 +10,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there</h1>
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
-<h2 align="center">I'm  Hamdy from Alexandria<br><br>- 🔭 I’m Front End developer<br>- 📚 4 years experience<br>- ⚡ I am always ready</h2>
+<h2 align="center">I'm  Hamdy from Alexandria<br><br>-  I’m Front End developer<br>- 📚 4 years experience<br>- ⚡ I am always ready</h2>
 
 ###
 
@@ -42,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt="Electronjs logo"  />
 </div>
 
 ###
