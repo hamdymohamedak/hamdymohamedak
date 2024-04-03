@@ -44,22 +44,18 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt="Electronjs logo"  />
 </div>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+    <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt="Electronjs logo"  />
+</div>
 
-https://skillicons.dev/icons?i=rust
+<img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 ###
 
 <div align="center"><div align="center">
   <img height="300" src="./output-onlinegiftools.gif"  />
 </div>
 
-###
-
-<  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-    <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt="Electronjs logo"  />
-</div>
-
-<img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 ###
 
 <div align="center">
