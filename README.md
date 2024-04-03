@@ -45,6 +45,7 @@
     <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt="Electronjs logo"  />
 </div>
 
+https://skillicons.dev/icons?i=rust
 ###
 
 <div align="center">
