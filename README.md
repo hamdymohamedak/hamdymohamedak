@@ -51,13 +51,6 @@
 
 <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 ###
-
-<div align="center"><div align="center">
-  <img height="300" src="./output-onlinegiftools.gif"  />
-</div>
-
-###
-
 <div align="center">
 </div>
 
