@@ -43,17 +43,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt="Electronjs logo"  />
-</div>
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
     <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt="Electronjs logo"  />
 </div>
-
-
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+<img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  
 </div>
-
-
 ###
