@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">I'm  Hamdy from Alexandria<br><br>-  I’m Front End developer<br>- 📚 4 years experience<br>- ⚡ I am always ready</h2>
+<h2 align="center">I'm  Hamdy from Alexandria<br><br>-  I’m Front End developer<br>- 📚 From 2019 until now  <br>- ⚡ I am always ready</h2>
 
 ###
 
