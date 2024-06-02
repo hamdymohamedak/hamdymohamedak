@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Hamdy Mohamed  and I'm a Front End Dev from  Alex</h2>
+<h1 align="center">Hi 👋! My name is Hamdy Mohamed  and I'm a Front End Dev from  Alex</h1>
 
 ###
 
