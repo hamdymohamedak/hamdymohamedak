@@ -1,3 +1,20 @@
+ />
+</div>
+  
+</div>
+<div align="center">
+  <img height="300" src="./output-onlinegiftools.gif"  />
+</div>
+
+###
+
+<div align="center">
+ <h1> Hamdy Mohamed </h1>
+</div>
+
+###
+
+<h1 align="center">hey there</h1>
 <div align="center">
   <img height="300" src="./output-onlinegiftools.gif"  />
 </div>
@@ -43,9 +60,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-    <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt="Electronjs logo"  />
-
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electronjs logo"  />
   <img width="12" />
-</div>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Tauri_logo.png" height="40" alt="Tauri logo"  />
 </div>
