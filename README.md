@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Hamdy Mohamed  and I'm a Front End Dev from  Alex</h2>
+<h2 align="center">Hi 👋! My name is Hamdy Mohamed  and I'm a Front End Dev from  Alex</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -30,6 +30,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="150" src="./output-onlinegiftools.gif"  />
 
 ###
