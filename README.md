@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i 'am Hamdy-Mohamed<br>Front End Dev..! from Alex<br>
+## Hi i 'am Hamdy-Mohamed<br>Front End Dev..! from Alex<br>
 
 
 # 💻 Tech Stack:
