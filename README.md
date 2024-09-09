@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi i 'am Hamdy-Mohamed<br>Front End Dev..! from Alex<br>
-<a href="[https://github.com/hamdymohamedak/Portfolio-master](https://github.com/hamdymohamedak/Portfolio-master/blob/main/README.md)">See More</a>
+<a href="https://github.com/hamdymohamedak/Portfolio-master/blob/main/README.md">See More</a>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
