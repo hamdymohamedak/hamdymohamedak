@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=hamdymohamedak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamdymohamedak&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdymohamedak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![hamdymohamedak's Stats](https://github-readme-stats.vercel.app/api?username=hamdymohamedak&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hamdymohamedak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
