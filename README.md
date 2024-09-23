@@ -1,3 +1,65 @@
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
+<h1 align="center">Hi 👋, I'm Hamdy Mohamed</h1>
+<h3 align="center">Front End Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
+
+
+
+---
+
+### 👨‍💻 About Me:
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1hK4mzbYKAI0eF3_ImluXHvt1M8aVaq8U/view)  
+- 💬 **Ask me about**: Front end Development, Web(Reactjs), Mobile(React Native), Desktop(Electron)  
+- 📫 **Reach me at**: [mohameddhamdy407@gmail.com](mohameddhamdy407@gmail.com) | **+20 1278859768**  
+- ⚡ **Fun fact**: I'm passionate about learning new things!  
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="[https://linkedin.com/in/abdullah-khaled-0608a9236](https://www.linkedin.com/in/hamdy-askander-b67b32246/)" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/mohameddhamdy407" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://wa.me/+201278859768" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
+  </a>
+  <a href="https://t.me/+201278859768" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - Abdullah Khaled" height="40" width="40" />
+  </a>
+</p>
+
+## 🧑‍💻 Front End  Intern  
+**Google DevFest** · *Site*  
+**2022 - 2023** (1 Year)  
+<br>
+## 🛠️ Technical Skills
+## 🌟 Soft Skills
+
+### 🎯 Problem-Solving & Critical Thinking
+- Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
+
+### 🧑‍🤝‍🧑 Teamwork & Collaboration
+- Experience working in **cross-functional teams**.
+- Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
+
+### 💡 Creativity & Innovation
+- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
+
+### 📅 Time Management & Organization
+- Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
+
+### 🎙️ Communication & Presentation
+- Skilled at conveying technical insights to diverse audiences, making complex data **accessible and actionable**.
+- Proficient in **presenting data-driven findings** clearly and persuasively.
+
+### 📈 Continuous Learning
+- A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
+
+
 # 💫 About Me:
 ## Hi i 'am Hamdy-Mohamed<br>Front End Dev..! From Alex🇺🇦<br>
 ## <a href="https://github.com/hamdymohamedak/Portfolio-master/blob/main/README.md">{{{See More}}}</a>
