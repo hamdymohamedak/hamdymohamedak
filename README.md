@@ -59,9 +59,6 @@
 ### 📈 Continuous Learning
 - A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
 
-
-# 💫 About Me:
-## Hi i 'am Hamdy-Mohamed<br>Front End Dev..! From Alex🇺🇦<br>
 ## <a href="https://github.com/hamdymohamedak/Portfolio-master/blob/main/README.md">{{{See More}}}</a>
 
 # 💻 Tech Stack:
@@ -79,4 +76,3 @@
 [![](https://visitcount.itsvg.in/api?id=hamdymohamedak&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
