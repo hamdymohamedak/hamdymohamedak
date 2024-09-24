@@ -36,7 +36,6 @@
 **Google DevFest** · *Site*  
 **2022 - 2023** (1 Year)  
 <br>
-## 🛠️ Technical Skills
 ## 🌟 Soft Skills
 
 ### 🎯 Problem-Solving & Critical Thinking
