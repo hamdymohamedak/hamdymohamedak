@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Hamdy Mohamed</h1>
 <h3 align="center">Front-End Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjenFlNGJqNTkwdWZ3ZzhrZGZyNWlqbWNpOHR6aTZweTV5NHhoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjenFlNGJqNTkwdWZ3ZzhrZGZyNWlqbWNpOHR6aTZweTV5NHhoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
 
 ---
 
