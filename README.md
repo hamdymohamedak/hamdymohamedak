@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=ecf05e47yb9f08upt80mtm8oz82fj44can71be0dchjod464&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
+  <img src="https://media.giphy.com/media/25UxpWoNBu8nOtURm9/giphy.gif?cid=ecf05e475dqhfwv3aoyghmu8zfyvq13oru31o1vmpls56fjt&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead">
 </div>
 
 <h1 align="center">Hi 👋, I'm Hamdy Mohamed</h1>
