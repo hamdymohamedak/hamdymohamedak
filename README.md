@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/hamdy-askander-b67b32246/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/mohameddhamdy407" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
-  </a>
   <a href="https://www.npmjs.com/~hamdymohamedak" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Npm-logo.svg" alt="NPM" height="40" width="40" />
 </a>
