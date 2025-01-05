@@ -25,6 +25,10 @@
   <a href="https://www.hackerrank.com/mohameddhamdy407" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
   </a>
+  <a href="https://www.npmjs.com/~hamdymohamedak" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Npm-logo.svg" alt="NPM" height="40" width="40" />
+</a>
+
   <a href="https://wa.me/+201278859768" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
   </a>
