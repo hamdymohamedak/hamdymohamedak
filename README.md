@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out my Resume [**here**](https://drive.google.com/file/d/1hK4mzbYKAI0eF3_ImluXHvt1M8aVaq8U/view)
+- 📋 **Resume**: Check out my Resume [**here**](https://drive.google.com/file/d/1ba9at-NJH7rqfe_gp0-2nT9eqViH21JR/view?usp=sharing)
 - 💬 **Ask me about**: Front-End Development, Web (React.js), Mobile (React Native), Desktop (Electron)
 - 📫 **Reach me at**: [mohameddhamdy407@gmail.com](mailto:mohameddhamdy407@gmail.com) | **+20 127 885 9768**
 - ⚡ **Fun fact**: I'm passionate about learning new things!
