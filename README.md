@@ -6,6 +6,7 @@
 <h3 align="center">Front-End Developer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjenFlNGJqNTkwdWZ3ZzhrZGZyNWlqbWNpOHR6aTZweTV5NHhoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
+<img align="left" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV4OGpremw5cjVtMDliN2RsZDd5bWg3N2V6djc4NzIweW43aWlhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" />
 
 ---
 
@@ -32,6 +33,7 @@
   <a href="https://t.me/+201278859768" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" />
   </a>
+  
 </p>
 
 ---
