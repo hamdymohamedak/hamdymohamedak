@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Hamdy Mohamed Askander (hamdymohamedak)</h1>
 <h3 align="center">Front-End Engineer | Web, Mobile & Desktop Interfaces</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh5bHM1MjZiOHZnaGFwbHhxemtod25sOGswNHRmaXU3eWJlcjdqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" />
+<img align="right" alt="Coding" style="z-index:999;" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh5bHM1MjZiOHZnaGFwbHhxemtod25sOGswNHRmaXU3eWJlcjdqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" />
 
 ---
 
