@@ -81,10 +81,6 @@
 
 ### I'm one of the top active GitHub users in Egypt:
 
-- **Public Contributions**:
-
-[![committers.top badge](https://user-badge.committers.top/egypt/hamdymohamedak.svg)](https://committers.top/egypt)
-
 -  **Public + Private Contributions**:
 
 [![committers.top badge](https://user-badge.committers.top/egypt_private/hamdymohamedak.svg)](https://committers.top/egypt_private)
